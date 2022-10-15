@@ -8,20 +8,6 @@ $session = new SpotifyWebAPI\Session(
     'http://localhost:8080/callback'
 );
 
-$api = new SpotifyWebAPI\SpotifyWebAPI();
+require('script4.php');
 
-if (isset($_GET['code'])) {
-    $session->requestAccessToken($_GET['code']);
-    $api->setAccessToken($session->getAccessToken());
-
-    print_r($api->me());
-} else {
-    $options = [
-        'scope' => [
-            'user-read-email',
-        ],
-    ];
-
-    header('Location: ' . $session->getAuthorizeUrl($options));
-    die();
-}
+?>
