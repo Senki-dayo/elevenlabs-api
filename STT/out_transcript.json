@@ -1,0 +1,467 @@
+{
+  "language_code": "eng",
+  "language_probability": 1.0,
+  "text": "With a soft and whispery American accent, I'm the ideal choice for creating ASMR content, meditative guides, or adding an intimate feel to your narrative projects.",
+  "words": [
+    {
+      "text": "With",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "a",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "soft",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "and",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "whispery",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "American",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "accent,",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "I'm",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "the",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "ideal",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "choice",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "for",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "creating",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "ASMR",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "content,",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "meditative",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "guides,",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "or",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "adding",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "an",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "intimate",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "feel",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "to",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "your",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "narrative",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": " ",
+      "start": null,
+      "end": null,
+      "type": "spacing",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    },
+    {
+      "text": "projects.",
+      "start": null,
+      "end": null,
+      "type": "word",
+      "speaker_id": null,
+      "logprob": 0.0,
+      "characters": null
+    }
+  ],
+  "additional_formats": null
+}
